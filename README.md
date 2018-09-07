@@ -4,7 +4,12 @@ Welcome to the DeFi Application Proposals page.
 
 ## [Create An Application](https://github.com/defi/application-proposals/issues/new/choose)
 
-To create an application to DeFi, please [create an issue](https://github.com/defi/application-proposals/issues/new/choose) in this repo using the **DeFi Application Proposal** template.
+To create an application to DeFi:
+
+1. [Create an issue](https://github.com/defi/application-proposals/issues/new/choose)
+2. Click the **DeFi Application Proposal** template
+3. Title the issue with the name of your company
+4. Fill out the application
 
 ## Current DeFi Companies
 
